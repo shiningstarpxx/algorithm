@@ -1,0 +1,12 @@
+-I
+buck-out/gen/echo#default,private-headers.hmap
+-I
+buck-out
+-fcolor-diagnostics
+-x
+c++
+-E
+-MD
+-MF
+/Users/liulu/Code/acm/buck-out/bin/echo#default,preprocess-echo.cc.ii50ab6d4d-tmp/dep.tmp
+echo.cc

@@ -1,0 +1,12 @@
+-I
+buck-out/gen/poj/1083#default,private-headers.hmap
+-I
+buck-out
+-fcolor-diagnostics
+-x
+c++
+-E
+-MD
+-MF
+/Users/liulu/Code/acm/buck-out/bin/poj/1083#default,preprocess-1083_Moving_Tables.cc.iia70f24d9-tmp/dep.tmp
+poj/1083_Moving_Tables.cc

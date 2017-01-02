@@ -1,0 +1,39 @@
+# Path: buck-out/gen/poj/1050
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] buck-out/gen/poj/1050#compile-1050.cc.o2647538e,default/1050.cc.o
+[  2] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib/libSystem.tbd
+# Sections:
+# Address	Size    	Segment	Section
+0x100000C60	0x0000030B	__TEXT	__text
+0x100000F6C	0x00000012	__TEXT	__stubs
+0x100000F80	0x0000002E	__TEXT	__stub_helper
+0x100000FAE	0x00000007	__TEXT	__cstring
+0x100000FB8	0x00000048	__TEXT	__unwind_info
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000018	__DATA	__la_symbol_ptr
+0x100001030	0x0000A42C	__DATA	__common
+# Symbols:
+# Address	Size    	File  Name
+0x100000C60	0x000000C0	[  1] __Z4Initv
+0x100000D20	0x000000E0	[  1] __Z2DPPii
+0x100000E00	0x0000016B	[  1] _main
+0x100000F6C	0x00000006	[  2] _memset
+0x100000F72	0x00000006	[  2] _printf
+0x100000F78	0x00000006	[  2] _scanf
+0x100000F80	0x00000010	[  0] helper helper
+0x100000F90	0x0000000A	[  2] _memset
+0x100000F9A	0x0000000A	[  2] _printf
+0x100000FA4	0x0000000A	[  2] _scanf
+0x100000FAE	0x00000003	[  1] literal string: %d
+0x100000FB1	0x00000004	[  1] literal string: %d\n
+0x100000FB8	0x00000048	[  0] compact unwind info
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] _memset
+0x100001018	0x00000008	[  2] _printf
+0x100001020	0x00000008	[  2] _scanf
+0x100001030	0x0000A290	[  1] _data
+0x10000B2C0	0x00000198	[  1] _row
+0x10000B458	0x00000004	[  1] _test_num

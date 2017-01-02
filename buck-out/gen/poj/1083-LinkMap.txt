@@ -1,0 +1,39 @@
+# Path: buck-out/gen/poj/1083
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] buck-out/gen/poj/1083#compile-1083_Moving_Tables.cc.o2e820c88,default/1083_Moving_Tables.cc.o
+[  2] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib/libSystem.tbd
+# Sections:
+# Address	Size    	Segment	Section
+0x100000CC0	0x0000029C	__TEXT	__text
+0x100000F5C	0x00000012	__TEXT	__stubs
+0x100000F70	0x0000002E	__TEXT	__stub_helper
+0x100000F9E	0x0000000C	__TEXT	__cstring
+0x100000FAC	0x00000048	__TEXT	__unwind_info
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000018	__DATA	__la_symbol_ptr
+0x100001030	0x00000334	__DATA	__common
+# Symbols:
+# Address	Size    	File  Name
+0x100000CC0	0x00000040	[  1] __Z9CalcIndexi
+0x100000D00	0x0000025C	[  1] _main
+0x100000F5C	0x00000006	[  2] _memset
+0x100000F62	0x00000006	[  2] _printf
+0x100000F68	0x00000006	[  2] _scanf
+0x100000F70	0x00000010	[  0] helper helper
+0x100000F80	0x0000000A	[  2] _memset
+0x100000F8A	0x0000000A	[  2] _printf
+0x100000F94	0x0000000A	[  2] _scanf
+0x100000F9E	0x00000003	[  1] literal string: %d
+0x100000FA1	0x00000005	[  1] literal string: %d%d
+0x100000FA6	0x00000004	[  1] literal string: %d\n
+0x100000FAC	0x00000048	[  0] compact unwind info
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] _memset
+0x100001018	0x00000008	[  2] _printf
+0x100001020	0x00000008	[  2] _scanf
+0x100001030	0x00000004	[  1] _test_num
+0x100001034	0x0000000C	[  1] _table_num
+0x100001040	0x00000324	[  1] _dp

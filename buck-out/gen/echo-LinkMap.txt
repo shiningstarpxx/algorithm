@@ -1,0 +1,26 @@
+# Path: buck-out/gen/echo
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] buck-out/gen/echo#compile-echo.cc.ob8e41ec2,default/echo.cc.o
+[  2] /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/lib/libSystem.tbd
+# Sections:
+# Address	Size    	Segment	Section
+0x100000F60	0x0000002A	__TEXT	__text
+0x100000F8A	0x00000006	__TEXT	__stubs
+0x100000F90	0x0000001A	__TEXT	__stub_helper
+0x100000FAA	0x0000000D	__TEXT	__cstring
+0x100000FB8	0x00000048	__TEXT	__unwind_info
+0x100001000	0x00000010	__DATA	__nl_symbol_ptr
+0x100001010	0x00000008	__DATA	__la_symbol_ptr
+# Symbols:
+# Address	Size    	File  Name
+0x100000F60	0x0000002A	[  1] _main
+0x100000F8A	0x00000006	[  2] _printf
+0x100000F90	0x00000010	[  0] helper helper
+0x100000FA0	0x0000000A	[  2] _printf
+0x100000FAA	0x0000000D	[  1] literal string: Hello World\n
+0x100000FB8	0x00000048	[  0] compact unwind info
+0x100001000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100001008	0x00000008	[  0] non-lazy-pointer
+0x100001010	0x00000008	[  2] _printf

@@ -1,0 +1,27 @@
+cxx_binary(
+  name = '1018',
+  srcs = [
+    '1018.cc',
+  ],
+)
+
+cxx_binary(
+  name = '1050',
+  srcs = [
+    '1050.cc',
+  ],
+)
+
+cxx_binary(
+  name = '1083',
+  srcs = [
+    '1083_Moving_Tables.cc',
+  ],
+)
+
+cxx_binary(
+  name = '1088',
+  srcs = [
+    '1088.cc',
+  ],
+)

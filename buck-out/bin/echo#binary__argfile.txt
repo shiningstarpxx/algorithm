@@ -1,0 +1,10 @@
+-o
+buck-out/gen/echo
+-Xlinker
+-map
+-Xlinker
+buck-out/gen/echo-LinkMap.txt
+-Xlinker
+-filelist
+-Xlinker
+"/Users/liulu/Code/acm/buck-out/bin/echo#binary__filelist.txt"

@@ -1,0 +1,12 @@
+-I
+buck-out/gen/poj/1018#default,private-headers.hmap
+-I
+buck-out
+-fcolor-diagnostics
+-x
+c++
+-E
+-MD
+-MF
+/Users/liulu/Code/acm/buck-out/bin/poj/1018#default,preprocess-1018.cc.ii7b6a41f9-tmp/dep.tmp
+poj/1018.cc

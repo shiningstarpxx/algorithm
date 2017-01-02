@@ -1,0 +1,10 @@
+-o
+buck-out/gen/poj/1018
+-Xlinker
+-map
+-Xlinker
+buck-out/gen/poj/1018-LinkMap.txt
+-Xlinker
+-filelist
+-Xlinker
+"/Users/liulu/Code/acm/buck-out/bin/poj/1018#binary__filelist.txt"
